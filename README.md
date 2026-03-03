@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=FFFFFF&width=435&lines=Victor+Abrams.;Nothing+lasts+forever." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Victor+Abrams.;Nothing+lasts+forever." alt="Typing SVG" />
+</a>>
 </p>
 
 <h2 align="center"> Who is Victor Abrams? </h2>

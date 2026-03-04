@@ -8,7 +8,7 @@
 
 <div>
  <p align="center"> <strong> Victor Abrams is a pseudonym individual who indulge in cyber security career, mainly in open-source intelligence (OSINT). Hailing from Indonesia, he is a self-taught prodigy who has exceptional logical thinking and individual abilites to solve problems. </strong> </p>
- <p align="center"> <strong> He is a member of "STELK CSC", a group of cyber security enthusiasts who are actively competing in CTF competitions. </strong> </p>
+ <p align="center"> <strong> He is a member of "STELK_CSC", a group of cyber security enthusiasts who are actively competing in CTF competitions. </strong> </p>
  <p align="center"> <strong> Besides indulging in cyber security, he is also an individual who likes to design and develop a website. </strong> </p>
  <p align="center"> <strong> Nothing lasts forever. </strong> </p>
  <br/>
